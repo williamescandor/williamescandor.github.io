@@ -1,0 +1,15 @@
+.imgdiv{
+   	height:300px;
+   	width:100%;
+   	text-align: center;
+}
+
+.imgdiv img{
+	height:75%;
+   	width:10%;
+   	border-radius: 50%;
+}
+body {
+	background-color: black;
+	color: orange;
+}

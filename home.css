@@ -10,6 +10,9 @@
    	border-radius: 50%;
 }
 body {
-	background-color: black;
+	background-image: url("https://theultralinx.com/.image/t_share/MTI5MDI0NDA4MTY0NTc1ODc1/whyte-gif-6.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
 	color: orange;
+	text-align: center;
 }

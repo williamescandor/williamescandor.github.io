@@ -1,0 +1,41 @@
+body {
+    background-image:url('bg.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-color: Black;
+    height:100%;
+    width:100%;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+}
+h1{
+	font-size: 90;
+	color: White;
+	padding-left: 20px;
+}
+
+.main{
+	position: static;
+	color: White;
+}
+
+.imgdiv{
+   	height:300px;
+   	width:100%;
+}
+
+.imgdiv img{
+	height:75%;
+   	width:10%;
+   	border-radius: 50%;
+}
+
+.imgdiv h1{
+	color: White;
+	position: center center;	
+	font-family: Impact;
+}
